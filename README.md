@@ -29,6 +29,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/valneto/valneto/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/valneto/valneto/output/snake.svg](https://raw.githubusercontent.com/valneto/valneto/main/snake%20(1).svg)" alt="Snake animation" />
 
 ###
