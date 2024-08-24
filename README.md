@@ -1,5 +1,5 @@
 
-<p align="left">Sobre mim<br> - Estudante de Python<br> - Data Science<br> - Automção<br> - Inteligencia Artificial</p>
+<p align="left">Sobre mim<br> - Estudante de Python<br> - Data Science<br> - Automação<br> - Inteligencia Artificial</p>
 
 ###
 
