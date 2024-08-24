@@ -1,6 +1,3 @@
-<h1 align="left">Cientista de Dados</h1>
-
-###
 
 <p align="left">Sobre mim<br> - Estudante de Python<br> - Data Science<br> - Automção<br> - Inteligencia Artificial</p>
 
